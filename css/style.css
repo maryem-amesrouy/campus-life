@@ -1,0 +1,98 @@
+.navigation h2{
+   width: 120px;
+   height: 25px;
+  padding: 11px 52px;
+  font-family: sans-serif;
+  font-size: 21px;
+  font-weight: 800;
+  
+     
+}
+a {
+    text-decoration: none;
+    color: #0A1222;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+
+.navigation ul {
+    color: #0A1222;
+    margin: -50;
+    width: auto;
+    height: auto;
+    list-style: none;
+    gap: 30px;
+    font-family: sans-serif;
+    display: flex;
+    
+       }
+
+.navigation button{
+    background-color: #034bff;
+     color: #FFFFFF;
+     width: 140px;
+     height: 28px;
+     
+
+
+}
+
+.navigation p{
+    font-weight: bolder;
+    font-size: 25px;
+}
+
+
+.campusLife{
+    background-color: #08111D;
+}
+
+.campusLife .info h1 {
+    color: #FFFFFF;
+}
+
+.campusLife .info h2 {
+    color: #034BFF;
+}
+
+.campusLife .info #icon p {
+    color: #C7F64A;
+}
+
+
+
+
+
+
+
+
+/*==================================================================================================*/
+
+.inscri .titre{
+    line-height: 20px;
+}
+
+.inscri .titre p {
+    color: #034BFF;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+.inscri .titre h1{
+    font-family: sans-serif;
+    font-weight: 900;
+    
+}
+
+
+
+.infor form{
+    font-family: sans-serif;
+    font-size: 13px;
+     width: 400px;
+}
